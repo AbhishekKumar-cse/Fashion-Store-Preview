@@ -15,17 +15,17 @@ header{
     background-color: #806BDC;
     text-align: center;
 }
-.NavBar {
-    padding-top: 18px;
-    
 
+.NavBar{
+    padding-top: 18px;
 }
+
 #navbar-title{
     color: white;
     font-size: 25px;
-    
 }
 
+/* Update the code below this comment */
 .items{
     padding-top: 15px;
     padding-bottom: 15px;
@@ -36,12 +36,13 @@ header{
     text-align:center;
 }
 
-.item-image{
-    height: 64px;
+.Item-img{
+    height: 128px;
 }
 
 .Item-tag{
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .Item-tag:hover{
