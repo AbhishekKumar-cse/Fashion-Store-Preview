@@ -15,3 +15,13 @@ header{
     background-color: #806BDC;
     text-align: center;
 }
+.NavBar {
+    padding-top: 18px;
+    
+
+}
+#navbar-title{
+    color: white;
+    font-size: 24px;
+    
+}
