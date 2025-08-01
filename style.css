@@ -22,6 +22,28 @@ header{
 }
 #navbar-title{
     color: white;
-    font-size: 24px;
+    font-size: 25px;
     
+}
+
+.items{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#item-table{
+    width: 100%;
+    text-align:center;
+}
+
+.item-image{
+    height: 64px;
+}
+
+.Item-tag{
+    font-size: 14px;
+}
+
+.Item-tag:hover{
+    color: #806BDC;
 }
